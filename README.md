@@ -1,7 +1,7 @@
 # YI Smart Dash Camera
 CVE-2024–56897
 
-##Vulnerable Model
+## Vulnerable Model
  - YI Smart Dash Camera
  - Firmware v3.88
  - Reference: https://yitechnology.com.sg/products/dash-camera/
